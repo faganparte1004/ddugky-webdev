@@ -2,9 +2,10 @@
 
 
 
-
+/*
 let num = 1;
-while(num<=17){
-    console.log(num);
+let multi = 3
+while(num<=10){
+    console.log("3*",num,"=",multi*num);
     num++;
-}
+}*/
