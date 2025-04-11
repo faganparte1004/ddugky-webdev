@@ -9,3 +9,8 @@ while(num<=10){
     console.log("3*",num,"=",multi*num);
     num++;
 }*/
+let pointer = 2875;
+while(pointer>0){
+    console.log(pointer/5);
+    pointer--;
+}
