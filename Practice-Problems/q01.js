@@ -1,13 +1,7 @@
-//print odd and even number
 let num = 1;
-let count = 20;
-while(num<=count){
+let max = 50;
+while(num<=max){
     if(num%2==0)
-        console.log(num,"E")
-    else
-        console.log(num,"O")
-
-
-    num++;           
+        console.log(num)
+    num++;
 }
-
