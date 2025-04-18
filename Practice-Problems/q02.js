@@ -1,20 +1,10 @@
-//print odd number
-let num = 1;
-let max = 20;
-while(num<=max){
-    if(num%2==1)
-       console.log(num,"O")
-    num++;
-
+let digit = 94560;
+let pointer = 0;
+while(digit<=pointer){
+    if(digit%10)
+        console.log(digit)
+    digit++;
 }
-//print even number
-/*let num = 1;
-let max = 25;
-while(num<=25){
-    if(num%2==0)
-        console.log(num,"E")
-    num++;
-}*/
     
     
 
