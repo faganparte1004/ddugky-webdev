@@ -1,9 +1,12 @@
-//print the digit of the number
-let num = 23467;
-while(num>0){
+//print the digits of the number
+let num = 1;
+let max = 15;
+while(num<=max){
     console.log(num)
-    num= (num%10==0)
+    num++;
 }
+
+
  
 
 

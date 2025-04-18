@@ -7,7 +7,14 @@ while(num<=max){
     num++;
 
 }
-
+//print even number
+/*let num = 1;
+let max = 25;
+while(num<=25){
+    if(num%2==0)
+        console.log(num,"E")
+    num++;
+}*/
     
     
 
